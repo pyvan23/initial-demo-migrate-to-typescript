@@ -9,7 +9,7 @@ export const MainLayout = ({ children }) => {
         <div className={styles.container}>
           
           <Head>
-            <title>Home - Fernando</title>
+            <title>Home - Ivan</title>
             <meta name="description" content="Home Page" />
             <link rel="icon" href="/favicon.ico" />
           </Head>
